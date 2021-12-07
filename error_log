@@ -1,0 +1,6 @@
+[07-Dec-2021 19:52:23 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to a member function web() on array in /home/fiuzac/project.fiuz.ac/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/fiuzac/project.fiuz.ac/index.php on line 11
+[07-Dec-2021 19:56:20 Asia/Tashkent] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/fiuzac/project.fiuz.ac/index.php on line 11
+[07-Dec-2021 19:56:21 Asia/Tashkent] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/fiuzac/project.fiuz.ac/index.php on line 11
